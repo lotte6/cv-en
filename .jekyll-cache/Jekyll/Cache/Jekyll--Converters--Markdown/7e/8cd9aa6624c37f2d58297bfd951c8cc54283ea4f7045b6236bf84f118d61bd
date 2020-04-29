@@ -1,0 +1,128 @@
+I"�<h1 id="snow">Snow</h1>
+<p>System Engineer, Linux Administrator, Hack</p>
+
+<p>Male | 
+<a href="https://bravesnow.top" target="_blank">bravesnow.top</a> |
+09955183753 |
+<a href="https://t.me/snow1198" target="_blank">@snow1198</a> | 
+<a href="lt12306@gmail.com" target="_blank">lt12306@gmail.com</a></p>
+
+<div id="webaddress">
+  <a href=""><i class="fas fa-male"></i> 男</a> |
+  <a href="https://bravesnow.top" target="_blank"><i class="fas fa-home"></i> bravesnow.top</a> |
+  <i class="fas fa-phone-square"></i> 0995 5183 753 <br />
+  <a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram-plane"></i> @snow1198</a> <br />
+  <a href="lt12306@gmail.com" target="_blank"><i class="far fa-envelope"></i> lt12306@gmail.com</a>
+</div>
+
+<h2 id="job-intendion">Job Intendion</h2>
+<p><strong>运维经理 运维架构师 渗透</strong></p>
+
+<h2 id="experience">Experience</h2>
+
+<p><code class="highlighter-rouge">2019.10-2020.3</code>
+<strong>南洋集团</strong> <br />
+1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各个产品线的稳定运行。<br />
+2、协调各部门关系，组织需求，合理分配任务，让员工各尽其职，发挥各自优势。<br />
+3、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br />
+4、安全体系，从硬件到软件，从网络层到应用层以及办公环境逐级防御，避免出现安全事件。具体信息访问：https://bravesnow.top/2020/03/30/linux/safety-frame/<br />
+5、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br />
+6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br />
+<br /></p>
+
+<p><code class="highlighter-rouge">2019.4-2019.10</code>
+<strong>AG</strong> <br />
+1、维护平台以及各个产品的安全稳定，处理架构以及各个合作平台出现的问题。<br />
+2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br />
+3、Nginx 新增WAF防火墙模块，并且自行添加验证cookie功能来防止恶意请求频繁访问，提高安全性和网站访问质量。<br />
+4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。详情访问: https://bravesnow.top/2019/09/10/python/python-dnppodapi/<br />
+5、通过使用acme工具，获取免费证书增加网站的安全性，并且制定证书更新迭代。<br />
+<br /></p>
+
+<p><code class="highlighter-rouge">2017.8-2019.2</code>
+<strong>铂金智慧</strong> <br />
+1、Aws及各大云主机以及容器化平台的引入，提高效率增加易用性（Java平台，zookeeper、spring cloud，k8s，rancher）
+2、Devops 持续集成流程设计，基于gitlab-ci + rancher平台的持续集成系统
+3、集群安全加固，合理利用安全组件（WAF、portSentry、fail2ban、iptables），以及第三方安全服务（CDN高防服务器，以及高防代理服务器）提高集群安全性
+各个业务线的容器化和Docker平台的部署和迁移，以及结构调整，使得资源分配更为合理。
+4、部署漏洞扫描平台，扫描各个服务器以及相关域名，并且修复安全隐患，提高集群安全性。
+5、ELK 业务系统，除了业务日志，且采集系统服务日志例如：nginx、Tomcat、MongoDB、traefik、ssh、syslog、mysql等，以及配合grafana绘制图形和报警。
+6、Jumpserver CMBD模块的二次开发，新增账单和信息采集功能，以及展示和汇总发送邮件。
+<br /></p>
+
+<h2 id="project">Project</h2>
+
+<p><code class="highlighter-rouge">2013-2023</code>
+<strong>Adjunct of the Faculty of Graduate Studies</strong>, <em>Department of Earth Sciences, Dalhousie University</em>, Halifax, NS, Canada.</p>
+
+<p><code class="highlighter-rouge">2013-2016</code>
+<strong>Assistant professor</strong>, <em>Department of Geosciences and Geography, University of Helsinki</em>, Helsinki, Finland.</p>
+
+<p><code class="highlighter-rouge">2009-2012</code>
+<strong>Postdoctoral fellow</strong>, <em>Department of Oceanography, Dalhousie University</em>, Halifax, NS, Canada.</p>
+
+<p><code class="highlighter-rouge">2008-2009</code>
+<strong>Postdoctoral fellow</strong>, <em>Géosciences Rennes, University of Rennes 1</em>, Rennes, France.</p>
+
+<p><code class="highlighter-rouge">2007</code>
+<strong>Geoscientist (intern)</strong>, <em>ExxonMobil Exploration Company</em>, Houston, TX, USA.</p>
+
+<p><code class="highlighter-rouge">2003-2008</code>
+<strong>Research assistant</strong>, <em>Department of Geological Sciences, University of Michigan</em>, Ann Arbor, MI, USA.</p>
+
+<p><code class="highlighter-rouge">2001-2003</code>
+<strong>Laboratory assistant</strong>, <em>Department of Geological Sciences, University of Michigan</em>, Ann Arbor, MI, USA.</p>
+
+<p><code class="highlighter-rouge">2000-2002</code>
+<strong>Tech consultant and Sites rover</strong>, <em>Campus Computing Sites, University of Michigan</em>, Ann Arbor, MI, USA.</p>
+
+<h2 id="publications">Publications</h2>
+
+<p><em>Publication list also available <a href="https://scholar.google.fi/citations?user=FvYhWOAAAAAJ">in Google Scholar</a>. Asterisks indicate student lead authors.</em></p>
+
+<h3 id="books">Books</h3>
+
+<p>H. Tenkanen, V. Heikinheimo, and <strong>D. M. Whipp</strong>. <em>Introduction to Python for Geographic Data Analysis</em>. CRC Press (expected publication in 2021). <strong><em>In progress</em></strong>, online at <a href="https://pythongis.org/">https://pythongis.org/</a>.</p>
+
+<!--
+### Journal articles, in preparation
+-->
+
+<h3 id="journal-articles">Journal articles</h3>
+
+<p><strong>D. M. Whipp</strong>, I. Coutand, B. Bookhagen, and D. Grujic. Fingerprints of tectonic and erosional processes in modern river sands from the Himalaya of western Bhutan. <em>Journal of Geophysical Research: Earth Surface</em>, <strong>In preparation</strong>.</p>
+
+<p>M. Ghadimi, A. Hooper, and <strong>D. M. Whipp</strong>. Assessment of displacement of the Taleqan Dam body and comparison with geodetic data using the DInSAR method. <strong>In preparation</strong>.</p>
+
+<p><code class="highlighter-rouge">2020</code>
+J. Schütt* and <strong>D. M. Whipp</strong>. Controls on continental strain partitioning above an oblique subduction zone, Northern Andes. <em>Tectonics</em>. doi: <a href="https://doi.org/10.1029/2019TC005886">10.1029/2019TC005886</a>, 2020.</p>
+
+<h2 id="memberships">Memberships</h2>
+
+<p><code class="highlighter-rouge">2014-present</code>
+European Geosciences Union</p>
+
+<p><code class="highlighter-rouge">2005-present</code>
+Geological Society of America</p>
+
+<p><code class="highlighter-rouge">2003-present</code>
+American Geophysical Union</p>
+
+<h2 id="languages">Languages</h2>
+
+<p>Native: English</p>
+
+<p>Basic: Finnish, French, German</p>
+
+<h2 id="personal">Personal</h2>
+
+<p>Birth date: 9 March 1980</p>
+
+<p>Citizenship: USA</p>
+
+<p>Residence: Finland (Permanent resident)</p>
+
+<p>Family: Married, two children</p>
+
+<p><br />Last updated: March 2020<br /><br /></p>
+:ET
