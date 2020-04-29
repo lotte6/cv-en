@@ -1,19 +1,19 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Snow's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Snow
+System Engineer, Linux Administrator, Hack
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="lt12306@gmail.com">lt12306@gmail.com</a>
+| <a href="https://bravesnow.top/">bravesnow.top</a>
 </div>
 
 
-## Currently
+## Job intention
 
-Standing on the shoulders of giants
+运维经理 运维架构师 渗透
 
 ### Specialized in
 
