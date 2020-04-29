@@ -1,6 +1,6 @@
 ---
 layout: cv
-title: Snow's CV
+title: Snow
 ---
 # Snow 
 <p style="font-size:0.8em; line-height:18px; height:50px;">男，32，计算机专业，本科，九年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、ＣＭＤＢ管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
