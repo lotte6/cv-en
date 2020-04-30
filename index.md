@@ -78,7 +78,7 @@ title: Snow
 
 `2019.11-2020.1`
 **集团安全架构设计**<br>
-a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](https://bravesnow.top/2019/09/10/python/python-dnppodapi/){:target="_blank"}<br>
+a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/30/security/security-frame/){:target="_blank"}<br>
 b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。<br>
 c)	根据现有环境完成安全架构部署，期间在申请后有酌情适当调整的部分，最终如期完成。<br>
 <br>
