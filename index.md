@@ -20,13 +20,12 @@ title: Snow
 `2019.10-2020.3`
 **南洋集团** - *运维经理*<br>
 1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各个产品线的稳定运行。<br>
-2、安全体系覆盖网络层到应用层，逐级防御，避免出现安全事件。[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/30/security/security-frame/){:target="_blank"}<br>
-3、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
-4、熟悉tcp/ip、http、icmp等web和网络协议，全方面检测有风险的漏洞或、BUG。<br>
-5、堡垒机部署使用，并且制定使用规则，只允许通过有审计的堡垒机进行服务器登陆，提高安全性并且审计。<br>
-6、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br>
-7、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
-8、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
+2、服务架构、访问流程、域名设计，帮助开发修改内部逻辑，提高架构稳定性。<br>
+2、根据业务部门常见问题需求，进行培训，从而使部门间工作衔接更加高效。<br>
+3、协调部门之间工作内容需求，根据需求制定方案，支持各个应用部门工作。<br>
+4、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br>
+5、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
+6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
 <br>
 
 `2019.4-2019.10`
@@ -35,7 +34,7 @@ title: Snow
 2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br>
 3、Nginx 新增WAF防火墙模块，并且自行添加验证cookie功能来防止恶意请求频繁访问，提高安全性和网站访问质量。<br>
 4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://bravesnow.top/2019/09/10/python/python-dnppodapi/){:target="_blank"}<br>
-5、通过使用acme工具，获取免费证书增加网站的安全性，并且制定证书更新迭代。<br>
+5、批量免费证书更新迭代，通过使用acme工具，批量申请、更新https证书，从而提高连通性和安全性。<br>
 <br>
 
 `2017.8-2019.2`
@@ -79,7 +78,7 @@ title: Snow
 `2019.11-2020.1`
 **集团安全架构设计**<br>
 a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/30/security/security-frame/){:target="_blank"}<br>
-b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。<br>
+b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。项目共5人，分别负责办公环境，虚拟环境，服务器环境<br>
 c)	根据现有环境完成安全架构部署，期间在申请后有酌情适当调整的部分，最终如期完成。<br>
 <br>
 
@@ -93,14 +92,14 @@ c)	根据现有业务对线上对外服务进行安全加固，利用Iptables、
 `2018.4-2018.8`
 **AWS云平台迁移及容器化项目**<br>
 a)	统筹现有资源，设计迁移计划并且容器化。<br>
-b)	项目中担任服务的架构设计，容器化平台的设计，迁移计划，数据迁移计划，项目全过程的实施把控。<br>
-c)	成功实现所有目标，虽然期间也有很多意外问题出现，但是还是如期完成。<br>
+b)	项目共10人，项目中担任服务的架构设计，容器化平台的设计，迁移计划，数据迁移计划，项目全过程的实施把控。<br>
+c)	项目虽然有重重阻力但依然可以克服各种困难将项目如期完成。<br>
 <br>
 
 `2018.2-2018.4`
 **CICD持续集成系统迭代项目**<br>
 a)	更换将现有第三方持续集成平台至Gitlab自动化平台。<br>
-b)	项目中担任项目调研，流程设计规划，协调开发团队，培训使用人员。<br>
+b)	项目共10人，项目中担任项目调研，流程设计规划，协调开发团队，培训使用人员。<br>
 c)	现有CICD全部迭代至Gitlab，提高研发效率及持续性。<br>
 <br>
 
@@ -120,11 +119,32 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 
 ## Skills
 
-1、Linux（Centos、Redhat、Debian、Ubuntu）系统运行维护和参数优化、安全加固、以及架构优化，合理运用服务器资源<br>
-2、运维平台开发、监控、以及自动化程序开发（Perl、Python、PHP），服务器脚本的编写shell、以及前台页面开发（HTML、JS、CSS）<br>
-3、服务器集群架构优化，统筹资源，合理运用技术以及第三方平台节省运维成本和硬件资源<br>
-4、熟练使用容器化平台以及熟悉docker hub提供的各种官方Image特性，合理运用各大云平台PaaS服务。<br>
-5、网络基础扎实，熟悉OSI七层模型以及常见协议TCP、HTTP、HTTPS、ICMP、ARP、VRRP等，	熟悉路由策略，静态路由表、OSPF、RIP、BGP等常见路由协议。<br>
+1、熟悉常见Linux发行版（Centos、Redhat、Debian、Ubuntu、Kali、Alpine），尤其Alpine是目前容器化平台使用较多的发行版，原因是Alpine的初始系统体积很小便于网络传输。<br>
+2、熟悉系统优化，服务优化、内核参数（网络、cookie、内存、可用端口范围、buffer大小设置），系统配置、安全优化、防火墙配置、安全加固、以及架构优化。<br>
+3、熟悉常见web服务工具 Nginx、Apache、Lightd、Tomcat、 Jetty、 Resin.<br>
+4、熟悉常见负载均衡工具使用配置及原理 Lvs、Nginx、Haproxy、traefik。<br>
+5、熟悉监控系统 nagios、zabbix、open-falcon、grafana、world ping，并且通过Telegram 发出报警信息<br>
+6、熟悉ELK系统（业务、监控、日志收集），也可以利用grafana添加数据源展示图标和根据数据变化报警。
+  - 日志采集：
+    - 文件类型采集：filebeat，logstash
+    - k8s：Fluentd-pilot、filebeat、logstash
+    - 网络采集：package beat
+
+7、熟悉常见中间件以及高可用方案，redis cluster、tweproxy、rabbitmq cluster、activemq cluster、kafka以及kafka高可用集群。<br>
+8、熟悉常见java生态、注册中心，以及高可用配置和选举原理：zookeeper、cosul、eureka、dubbo。<br>
+9、熟悉常见DB以及分片是集群和高可用方案以原理：MongoDB、Mysql（4种主从同步模式，各种主从结构以及应用场景）、MariaDb、galera cluster、mycat中间件。<br>
+10、熟悉常见云厂商以及服务应用和配置：AWS、阿里云、Google云、Azure、金山云、京东云、青云、美团云、华为云。。。<br>
+11、熟悉常见云厂商网络结构拓扑：Vpc、subnet、Private Gateway、Internet Gateway、acl。<br>
+12、熟悉各个云厂商服务，以及厂商之间的区别：kubernets、容器服务、registry、Aurora、DynamoDB、EC2、Route53。<br>
+13、熟悉批量工具及其原理和优劣：Puppet、Saltstack、Ansible。<br>
+14、熟悉常见HA工具及实现原理、应用协议和优劣：Heartbeat、Keepalive<br>
+15、了解常见开发语言 Perl、Python、PHP、HTML、JS、CSS，以便二次开发管理平台、自动化工具，以及调用各个平台接口。<br>
+16、熟练使用shell编写脚本，批量操作服务器、统计数据等工作内容。<br>
+17、熟练使用容器化平台 kubernuts、Runcher 以及熟悉docke hub提供的各种官方Image特性，合理运用各大云平台PaaS服务。<br>
+18、熟悉常见代理、缓存工具以及应用场景：Nginx、Varnish、Squid。<br>
+19、熟悉TCP、HTTP、HTTPS、ICMP、ARP、VRRP、Stmp、Pop3、Imap等网络协议以及OSI七层模型，以及常见vpn实现方式：Ipsec、Pptpd、L2tpd、Shadowsocket、Openvpn<br>
+20、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
+21、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/30/security/security-frame/){:target="_blank"}<br>
 
 ## Languages
 Native: China
