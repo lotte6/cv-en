@@ -144,7 +144,7 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 18、熟悉常见代理、缓存工具以及应用场景：Nginx、Varnish、Squid。<br>
 19、熟悉TCP、HTTP、HTTPS、ICMP、ARP、VRRP、Stmp、Pop3、Imap等网络协议以及OSI七层模型，以及常见vpn实现方式：Ipsec、Pptpd、L2tpd、Shadowsocket、Openvpn<br>
 20、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
-21、熟悉DNS解析以及转发、递归、迭代原理，熟悉域名解析服务部署（named、dnsmasq），了解域名劫持原理，利用CNAME解析原理批量控制域名，快速修改解析地址。
+21、熟悉DNS解析以及转发、递归、迭代原理，熟悉域名解析服务部署（named、dnsmasq），了解域名劫持原理，利用CNAME解析原理批量控制域名，快速修改解析地址。<br>
 22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/30/security/security-frame/){:target="_blank"}<br>
 
 ## Languages
