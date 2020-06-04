@@ -33,7 +33,7 @@ title: Snow
 1、维护平台以及各个产品的安全稳定，处理架构以及各个合作平台出现的问题。<br>
 2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br>
 3、Nginx 新增WAF防火墙模块，并且自行添加验证cookie功能来防止恶意请求频繁访问，提高安全性和网站访问质量。<br>
-4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://bravesnow.top/2019/09/11/python-dnppodapi.html){:target="_blank"}<br>
+4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://bravesnow.top/2019/09/10/python-dnppodapi.html){:target="_blank"}<br>
 5、批量免费证书更新迭代，通过使用acme工具，批量申请、更新https证书，从而提高连通性和安全性。<br>
 <br>
 
@@ -77,7 +77,7 @@ title: Snow
 
 `2019.11-2020.1`
 **集团安全架构设计**<br>
-a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/31/security-frame.html){:target="_blank"}<br>
+a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](https://bravesnow.top/2020/03/30/security-frame.html){:target="_blank"}<br>
 b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。项目共5人，分别负责办公环境，虚拟环境，服务器环境<br>
 c)	根据现有环境完成安全架构部署，期间在申请后有酌情适当调整的部分，最终如期完成。<br>
 <br>
@@ -145,7 +145,7 @@ c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
 19、熟悉TCP、HTTP、HTTPS、ICMP、ARP、VRRP、Stmp、Pop3、Imap等网络协议以及OSI七层模型，以及常见vpn实现方式：Ipsec、Pptpd、L2tpd、Shadowsocket、Openvpn<br>
 20、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
 21、熟悉DNS解析以及转发、递归、迭代原理，熟悉域名解析服务部署（named、dnsmasq），了解域名劫持原理，利用CNAME解析原理批量控制域名，快速修改解析地址。<br>
-22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](http://bravesnow.top/2020/03/31/security-frame.html){:target="_blank"}<br>
+22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](https://bravesnow.top/2020/03/30/security-frame.html){:target="_blank"}<br>
 
 ## Languages
 Native: China
