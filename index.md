@@ -21,7 +21,7 @@ title: Snow
 **Nelsoft Systems, Inc.** - *Partner*<br><br>
 1 Finding out the website system and server provider.<br>
 2 Process the purchase and deploy the website system. Initialize the system and crawl data for the system. <br>
-3 Standardization most of the work. Make repetitive tasks easy.
+3 Standardization most of the work. Make repetitive tasks easy. <br>
 4 Project delivery, expain and solve the customer questions. And give advice to customer.
 <br><br>
 
@@ -78,23 +78,23 @@ c)	To decrease the cost to the minimum<br>
 <br>
 
 ## Skills
-1 Familiar Linux system and windows system(Centos Redhat Debian Ubuntu Kali Alpine windows2002 windows2008 windows2012).<br>
-2 Familiar system optimize, service optimize, network optimize, sercurity optimize and frame optimize.<br>
-3 Familiar WEB Server(Nginx Apache Lightd Tomcat  Jetty  Resin).<br>
-4 Familiar kinks of Loadblance and high bility tool(Lvs Nginx Haproxy traefik)<br>
-5 Familiar monitor system like  nagios zabbix open-falcon grafana world ping.
-6 Familiar ELK system(service, monitor, collect log).
-7 Familiar middleware include redis cluster tweproxy rabbitmq cluster activemq-cluster mycat.<br>
-8 Familiar java environment,configure and HA (zookeeper cosul eureka dubbo)<br>
-9 Familiar kinds of DB：MongoDB Mysql MariaDb galera cluster.<br>
-10 Familiar most of the cloud service provider(AWS alicloud Googlecloud Azure Jinshancloud...)<br>
-11 Familiar most of cloud service provider network：Vpc subnet Private Gateway Internet Gateway acl.<br>
-12 Familiar automation tool, Puppet Saltstack Ansible.<br>
-14 Familiar HA tool and principle, Heartbeat Keepalive<br>
-15 Familiar Develop lauguage and frame, Perl Python(Django Flask webpy scrapy) PHP(Laravel Thinkphp) HTML JS CSS.<br>
-16 Familiar shell python script<br>
-17 Familiar Docker platform kubernuts Runcher KubeSphere.<br>
-18 Familiar proxy and reverse proxy, Nginx Varnish Squid HAproxy.<br>
+1 Familiar Linux system and windows system(Centos Redhat Debian Ubuntu Kali Alpine windows2002 windows2008 windows2012). <br>
+2 Familiar system optimize, service optimize, network optimize, sercurity optimize and frame optimize. <br>
+3 Familiar WEB Server(Nginx Apache Lightd Tomcat  Jetty  Resin). <br>
+4 Familiar kinks of Loadblance and high bility tool(Lvs Nginx Haproxy traefik). <br>
+5 Familiar monitor system like  nagios zabbix open-falcon grafana world ping. <br>
+6 Familiar ELK system(service, monitor, collect log).<br>
+7 Familiar middleware include redis cluster tweproxy rabbitmq cluster activemq-cluster mycat. <br>
+8 Familiar java environment,configure and HA (zookeeper cosul eureka dubbo). <br>
+9 Familiar kinds of DB：MongoDB Mysql MariaDb galera cluster. <br>
+10 Familiar most of the cloud service provider(AWS alicloud Googlecloud Azure Jinshancloud...). <br>
+11 Familiar most of cloud service provider network：Vpc subnet Private Gateway Internet Gateway acl. <br>
+12 Familiar automation tool, Puppet Saltstack Ansible. <br>
+14 Familiar HA tool and principle, Heartbeat Keepalive. <br>
+15 Familiar Develop lauguage and frame, Perl Python(Django Flask webpy scrapy) PHP(Laravel Thinkphp) HTML JS CSS. <br>
+16 Familiar Shell Python script. <br>
+17 Familiar Docker platform kubernuts Runcher KubeSphere. <br>
+18 Familiar proxy and reverse proxy, Nginx Varnish Squid HAproxy. <br>
 
 ## Languages
 Native: China
@@ -103,7 +103,7 @@ Basic: English Chinese
 
 ## Self
 
-Character : Pation,Honest, Love to challenge, Love to help others, Initiative,Independent with good communication
+Character : Pation, Honest, Love to challenge, Love to help others, Initiative, Independent with good communication
 
 Hobbies: Sport Gym Badminiton Diving Hiking
 
