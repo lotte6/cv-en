@@ -3,7 +3,7 @@ layout: cv
 title: Snow
 ---
 # Snow 
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">10 years more work exprience on linux network and kands of operation system.</p>
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">Over 10 years work exprience on linux network and kinds of operation system.</p>
 
 <div id="webaddress">
   <a href="https://brsn.ga" target="_blank"><i class="fas fa-home"></i> brsn.ga</a><br>
@@ -90,11 +90,11 @@ c)	To decrease the cost to the minimum<br>
 10 Familiar most of the cloud service provider(AWS alicloud Googlecloud Azure Jinshancloud...). <br>
 11 Familiar most of cloud service provider network：Vpc subnet Private Gateway Internet Gateway acl. <br>
 12 Familiar automation tool, Puppet Saltstack Ansible. <br>
-14 Familiar HA tool and principle, Heartbeat Keepalive. <br>
-15 Familiar Develop lauguage and frame, Perl Python(Django Flask webpy scrapy) PHP(Laravel Thinkphp) HTML JS CSS. <br>
-16 Familiar Shell Python script. <br>
-17 Familiar Docker platform kubernuts Runcher KubeSphere. <br>
-18 Familiar proxy and reverse proxy, Nginx Varnish Squid HAproxy. <br>
+13 Familiar HA tool and principle, Heartbeat Keepalive. <br>
+14 Familiar Develop lauguage and frame, Perl Python(Django Flask webpy scrapy) PHP(Laravel Thinkphp) HTML JS CSS. <br>
+15 Familiar Shell Python script. <br>
+16 Familiar Docker platform kubernuts Runcher KubeSphere. <br>
+17 Familiar proxy and reverse proxy, Nginx Varnish Squid HAproxy. <br>
 
 ## Languages
 Native: China
