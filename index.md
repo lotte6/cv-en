@@ -111,6 +111,6 @@ Hobbies: Sport Gym Badminiton Diving Hiking
 
 Information Engineering University
 
-### About Resume
+## About Resume
 
 Download ：Press ctrl + p, Printer to choice **save as PDF** <br>
