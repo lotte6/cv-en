@@ -3,149 +3,98 @@ layout: cv
 title: Snow
 ---
 # Snow 
-<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">男，32，计算机专业，本科，九年工作经验，工作技术范围包括	安全（网络安全、系统安全、WEB安全）、网络、Linux、ＣＭＤＢ管理系统二次开发、CICD等应用技术。经历多年的技术沉淀也曾带领团队维护项目、技术攻坚、建立统计和各种规章制度。</p>
+<p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">10 years more work exprience on linux network and kands of operation system.</p>
 
 <div id="webaddress">
-  <a href="https://bravesnow.top" target="_blank"><i class="fas fa-home"></i> bravesnow.top</a>
-  &nbsp;<a href="https://t.me/snow1198" target="_blank"><i class="fab fa-telegram"></i> @snow1198</a>
-  &nbsp;<i class="fas fa-phone"></i> 09955183753
-  &nbsp;<a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a>
+  <a href="https://brsn.ga" target="_blank"><i class="fas fa-home"></i> brsn.ga</a><br>
+  <i class="fas fa-phone"></i> 18511070913 <br>
+  <a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a><br>
+  <i class="fa fa-map-marker" aria-hidden="true"></i> ZhangJiakou City,He Bei Province, China
 </div>
 
 ## Job Intendion
-**运维经理 运维架构师 安全 渗透**
+**Operation and Maintenance Engineer <br> Team Manager**
 
 ## Experience
 
 `2019.10-2021.6`
-**Nelsoft Systems, Inc.** - *运维经理*<br>
-1、建设运维体系（安全体系，服务器架构，监控系统，文档传承，网络系统，流程规划），维持各个产品线的稳定运行。<br>
-2、服务架构、访问流程、域名设计，帮助开发修改内部逻辑，提高架构稳定性。<br>
-2、根据业务部门常见问题需求，进行培训，从而使部门间工作衔接更加高效。<br>
-3、协调部门之间工作内容需求，根据需求制定方案，支持各个应用部门工作。<br>
-4、根据公司发展，制定运维部门发展方向和策略，并且合理规划和部署。<br>
-5、技术问题攻坚，从技术角度解决实际问题，利用自动化来提高工作效率。<br>
-6、人员管理，制定合理的人员晋升和奖励制度，激励每个人的工作积极性。<br>
-<br>
+**Nelsoft Systems, Inc.** - *Partner*<br><br>
+1 Finding out the website system and server provider.<br>
+2 Process the purchase and deploy the website system. Initialize the system and crawl data for the system. <br>
+3 Standardization most of the work. Make repetitive tasks easy.
+4 Project delivery, expain and solve the customer questions. And give advice to customer.
+<br><br>
 
 `2019.4-2019.10`
-**ANSI Information Systems Inc.** - *高级运维工程师*<br>
-1、维护平台以及各个产品的安全稳定，处理架构以及各个合作平台出现的问题。<br>
-2、安全加固，预防以及处理各种类型攻击（cc、ddos），通过三方平台结合自身业务特点，部署全自动化防御体系，以便应对常见的各类型攻击。<br>
-3、Nginx 新增WAF防火墙模块，并且自行添加验证cookie功能来防止恶意请求频繁访问，提高安全性和网站访问质量。<br>
-4、研发自动化运维工具，通过调用Dnspod api批量处理管理域名，功能例如：批量增加域名、批量增加记录、批量修改，批量删除、查询修改日志，以便于快速处理突发问题。 [<font color="blue">点击打开链接</font>](https://bravesnow.top/2019/09/10/python-dnppodapi.html){:target="_blank"}<br>
-5、批量免费证书更新迭代，通过使用acme工具，批量申请、更新https证书，从而提高连通性和安全性。<br>
+**ANSI Information Systems Inc.** - *Team Manager*<br><br>
+1 Design the operation and maintenance system (security system, server frame, monitoring system, document system, network system).<br>
+2 Keep all of the system stable and high ability.<br>
+3 Improve system ability and security system, prevention according to analyze each attack.<br>
+4 Develop and design DevOps system for the existing envirenment, increase work efficiency.<br> 
+5 SA team build. Share the skills and learn each other. Keep make everyone grow in my team.<br>
+6 Communicate with other departments, identify and solve problems.
+<br>
 <br>
 
-`2017.8-2019.2`
-**某大数据公司** - *综合高级运维工程师*<br>
-1、Aws及各大云主机以及容器化平台的引入，提高效率增加易用性（Java平台，zookeeper、spring cloud，k8s，rancher）<br>
-2、Devops 持续集成流程设计，基于gitlab-ci + rancher平台的持续集成系统<br>
-3、集群安全加固，合理利用安全组件（WAF、portSentry、fail2ban、iptables），以及第三方安全服务（CDN高防服务器，以及高防代理服务器）提高集群安全性<br>
-各个业务线的容器化和Docker平台的部署和迁移，以及结构调整，使得资源分配更为合理。<br>
-4、部署漏洞扫描平台，扫描各个服务器以及相关域名，并且修复安全隐患，提高集群安全性。<br>
-5、ELK 业务系统，除了业务日志，且采集系统服务日志例如：nginx、Tomcat、MongoDB、traefik、ssh、syslog、mysql等，以及配合grafana绘制图形和报警。<br>
-6、Jumpserver CMBD模块的二次开发，新增账单和信息采集功能，以及展示和汇总发送邮件。<br>
+`2017.8-2019.1`
+**PTmind** - *Advance Operation and Maintenance Engineer*<br><br>
+1 Transfer all of the system to Docker Engine(Aws cloud and some other cloud platform)<br>
+2 Design DevOps system for the existing envirenment and deploy base on gitlab-ci + rancher platform. <br>
+3 Help developer to familar new DevOps system and use it.<br>
+4 Ceph storage cluster and ES cluster maintenance(extend, recovery, fix, HA, rebuild)
+5 Scan all of the server and URL to find out the potential risk. Improve the security by WAF、portSentry、fail2ban and iptables
+6 Survey the log system and design the log flow and deploy (logstash)<br>
 <br>
-
-`2015.5-2017.6`
-**CYBERACTIVE** - *运维主管*<br>
-1、保证服务器各项服务的稳定，处理线上问题及各种隐患。维护网络设备及防火墙规则。<br>
-2、虚拟化平台引入线上业务应用，充分利用资源，避免了资源浪费和硬件开销。<br>
-3、建立开发上线流程以及CI部署，更新代码管理系统，提高开发和代码上线效率。<br>
-4、部署监控系统，及时发现服务器以及网络设备出现的各种问题，尽早的解决各种安全隐患。<br>
-<br>
-
-`2014.5-2015.5`
-**应用市场** - *高级运维工程师*<br>
-1、统一各业务线用户系统，设计用户统一管理的架构，使各平台的业务线能够通过底层统一接口登陆。<br>
-2、配合开发完成底层基础开发和一些数据运算，帮助开发人员快速定位问题。<br>
-3、日均4亿PV。<br>
-<br>
-
-`2011.4-2014.5`
-**推博科技** - *运维工程师*<br>
-1、整合keepalive+lvs架构，让架构更加合理，资源利用更加充分。<br>
-2、日常监控、检测及工具脚本的编写（shell、perl、python）。<br>
-3、Nginx服务器平台升级及缓存功能，有效的提高服务质量。<br>
-
-
-
 
 
 ## Project
 
 `2019.11-2020.1`
-**集团安全架构设计**<br>
-a)	根据公司实际情况设计安全架构，包括设计方案，讲解方案，讨论需求。[<font color="blue">点击打开链接</font>](https://bravesnow.top/2020/03/30/security-frame.html){:target="_blank"}<br>
-b)	根据设计方案协调各个部门实施方案，拆解任务给组内人员分别实施。项目共5人，分别负责办公环境，虚拟环境，服务器环境<br>
-c)	根据现有环境完成安全架构部署，期间在申请后有酌情适当调整的部分，最终如期完成。<br>
-<br>
-
-`2018.11-2018.11`
-**服务器集群安全加固**<br>
-a)	部署Nessus安全扫描平台对平台进行全面扫描，包括内网扫描，系统扫描，web扫描，接口扫描。<br>
-b)	根据扫描结果以及风险等级进行修复，升级<br>
-c)	根据现有业务对线上对外服务进行安全加固，利用Iptables、PortSentry、Fail2ban 防漏扫、防爆破<br>
+**Security Frame Design**<br>
+a)	Make the security plan base on enviranment.[<font color="blue">Link(Chinese Only)</font>](https://brsn.ga/2020/03/30/security-frame.html){:target="_blank"}<br>
+b)	Coordinate and implement the plan according to the plan<br>
+c)	With proper adjustment, finally complate<br>
 <br>
 
 `2018.4-2018.8`
-**AWS云平台迁移及容器化项目**<br>
-a)	统筹现有资源，设计迁移计划并且容器化。<br>
-b)	项目共10人，项目中担任服务的架构设计，容器化平台的设计，迁移计划，数据迁移计划，项目全过程的实施把控。<br>
-c)	项目虽然有重重阻力但依然可以克服各种困难将项目如期完成。<br>
-<br>
-
-`2018.2-2018.4`
-**CICD持续集成系统迭代项目**<br>
-a)	更换将现有第三方持续集成平台至Gitlab自动化平台。<br>
-b)	项目共10人，项目中担任项目调研，流程设计规划，协调开发团队，培训使用人员。<br>
-c)	现有CICD全部迭代至Gitlab，提高研发效率及持续性。<br>
+**AWS Plateform Transfer and Docker Engine Transfer**<br>
+a)	Build all of service to a image and transfer to AWS Docker Engine<br>
+b)	Total 10 people, I am the network and docker frame designer and I was monitor all of the part proceed smoothly<br>
+c)	All though the project has many technical difficulty, but complate on time.<br>
 <br>
 
 `2016.3-2015.5`
-**Git+gerrit+jenkins持续集成系统项目**<br>
-a)	使用Git gerrit来部署代码管理和代码审核功能，并且通过Jenkins持续集成平台实现全自动化部署。<br>
-b)	项目中担任集群功能设计，权限设计，混合云平台的持续集成方案实现设计和部署实施<br>
-c)	让原有的人工上传代码变成全自动持续部署，提高产品开发效率<br>
+**Git + gerrit + jenkins CICD System Deploy**<br>
+a)	Manage and serve Git repositories work on Gerrit Code Review. Process all of the work on Jenkins.<br>
+b)	I design all of the project and deploy.<br>
+c)	Complate on time and increase efficiency<br>
 <br>
 
 `2015.8-2015.10`
-**Citrix Xenserver 虚拟化集群项目**<br>
-a)	使用citrix xen虚拟化技术搭建虚拟化集群<br>
-b)	项目中担任项目调研、个虚拟化平台评测、架构设计、部署实施、后期维护，故障处理。<br> 
-c)	基于业务类型，使用虚拟化平台节省开支和运营成本<br>
+**Citrix Xenserver Virtual System**<br>
+a)	Virtual of all of server base on Cirix Xenserver cluster<br>
+b)	I am the the project proposer and finish all project.<br> 
+c)	To decrease the cost to the minimum<br>
 <br>
 
 ## Skills
-
-1、熟悉常见Linux发行版（Centos、Redhat、Debian、Ubuntu、Kali、Alpine），尤其Alpine是目前容器化平台使用较多的发行版，原因是Alpine的初始系统体积很小便于网络传输。<br>
-2、熟悉系统优化，服务优化、内核参数（网络、cookie、内存、可用端口范围、buffer大小设置），系统配置、安全优化、防火墙配置、安全加固、以及架构优化。<br>
-3、熟悉常见web服务工具 Nginx、Apache、Lightd、Tomcat、 Jetty、 Resin.<br>
-4、熟悉常见负载均衡工具使用配置及原理 Lvs、Nginx、Haproxy、traefik。<br>
-5、熟悉监控系统 nagios、zabbix、open-falcon、grafana、world ping，并且通过Telegram 发出报警信息<br>
-6、熟悉ELK系统（业务、监控、日志收集），也可以利用grafana添加数据源展示图标和根据数据变化报警。
-  - 日志采集：
-    - 文件类型采集：filebeat，logstash
-    - k8s：Fluentd-pilot、filebeat、logstash
-    - 网络采集：package beat
-
-7、熟悉常见中间件以及高可用方案，redis cluster、tweproxy、rabbitmq cluster、activemq cluster、kafka以及kafka高可用集群。<br>
-8、熟悉常见java生态、注册中心，以及高可用配置和选举原理：zookeeper、cosul、eureka、dubbo。<br>
-9、熟悉常见DB以及分片是集群和高可用方案以原理：MongoDB、Mysql（4种主从同步模式，各种主从结构以及应用场景）、MariaDb、galera cluster、mycat中间件。<br>
-10、熟悉常见云厂商以及服务应用和配置：AWS、阿里云、Google云、Azure、金山云、京东云、青云、美团云、华为云。。。<br>
-11、熟悉常见云厂商网络结构拓扑：Vpc、subnet、Private Gateway、Internet Gateway、acl。<br>
-12、熟悉各个云厂商服务，以及厂商之间的区别：kubernets、容器服务、registry、Aurora、DynamoDB、EC2、Route53。<br>
-13、熟悉批量工具及其原理和优劣：Puppet、Saltstack、Ansible。<br>
-14、熟悉常见HA工具及实现原理、应用协议和优劣：Heartbeat、Keepalive<br>
-15、了解常见开发语言 Perl、Python、PHP、HTML、JS、CSS，以便二次开发管理平台、自动化工具，以及调用各个平台接口。<br>
-16、熟练使用shell编写脚本，批量操作服务器、统计数据等工作内容。<br>
-17、熟练使用容器化平台 kubernuts、Runcher 以及熟悉docke hub提供的各种官方Image特性，合理运用各大云平台PaaS服务。<br>
-18、熟悉常见代理、缓存工具以及应用场景：Nginx、Varnish、Squid。<br>
-19、熟悉TCP、HTTP、HTTPS、ICMP、ARP、VRRP、Stmp、Pop3、Imap等网络协议以及OSI七层模型，以及常见vpn实现方式：Ipsec、Pptpd、L2tpd、Shadowsocket、Openvpn<br>
-20、熟悉常见扫描工具（Metasploit、Burp Suite、SQLMap、Nmap、Wireshark、Tcpdump、Nessus等）综合利用各种类型工具扫描服务器、各个应用和可能出现安全漏洞的。<br>
-21、熟悉DNS解析以及转发、递归、迭代原理，熟悉域名解析服务部署（named、dnsmasq），了解域名劫持原理，利用CNAME解析原理批量控制域名，快速修改解析地址。<br>
-22、较强安全防范意识，通过堡垒机和网络控制来提高登陆、网络的安全性，并且制定流程，以便于审计。设计方案：[<font color="blue">点击打开链接</font>](https://bravesnow.top/2020/03/30/security-frame.html){:target="_blank"}<br>
+1 Familiar Linux system and windows system(Centos Redhat Debian Ubuntu Kali Alpine windows2002 windows2008 windows2012).<br>
+2 Familiar system optimize, service optimize, network optimize, sercurity optimize and frame optimize.<br>
+3 Familiar WEB Server(Nginx Apache Lightd Tomcat  Jetty  Resin).<br>
+4 Familiar kinks of Loadblance and high bility tool(Lvs Nginx Haproxy traefik)<br>
+5 Familiar monitor system like  nagios zabbix open-falcon grafana world ping.
+6 Familiar ELK system(service, monitor, collect log).
+7 Familiar middleware include redis cluster tweproxy rabbitmq cluster activemq-cluster mycat.<br>
+8 Familiar java environment,configure and HA (zookeeper cosul eureka dubbo)<br>
+9 Familiar kinds of DB：MongoDB Mysql MariaDb galera cluster.<br>
+10 Familiar most of the cloud service provider(AWS alicloud Googlecloud Azure Jinshancloud...)<br>
+11 Familiar most of cloud service provider network：Vpc subnet Private Gateway Internet Gateway acl.<br>
+12 Familiar automation tool, Puppet Saltstack Ansible.<br>
+14 Familiar HA tool and principle, Heartbeat Keepalive<br>
+15 Familiar Develop lauguage and frame, Perl Python(Django Flask webpy scrapy) PHP(Laravel Thinkphp) HTML JS CSS.<br>
+16 Familiar shell python script<br>
+17 Familiar Docker platform kubernuts Runcher KubeSphere.<br>
+18 Familiar proxy and reverse proxy, Nginx Varnish Squid HAproxy.<br>
 
 ## Languages
 Native: China
@@ -153,11 +102,15 @@ Native: China
 Basic: English Chinese
 
 ## Self
-热情，执着，热爱生活，喜欢追求完美，喜欢挑战自己，乐于助人，并且喜欢与人交流分享。极强的执行力，喜欢在尝试中成长，面对困难一定选择迎难而上。
 
-### 关于简历
+Character : Pation,Honest, Love to challenge, Love to help others, Initiative,Independent with good communication
 
-简历下载 ：直接使用打印功能，目标打印机选择 **另存为PDF** <br>
-关于部署 ：使用Jekyll（一种框架） + Github pages 部署，网上很多模板，可自行寻找<br>
-关于博客 ：使用 hexo + Github pages 部署<br>
+Hobbies: Sport Gym Badminiton Diving Hiking
 
+## Education
+
+Information Engineering University
+
+### About Resume
+
+Download ：Press ctrl + p, Printer to choice **save as PDF** <br>
