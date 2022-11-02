@@ -2,7 +2,13 @@
 layout: cv
 title: Snow
 ---
+![pic](/media/p2.png)
+
 # Snow 
+
+<!-- <img src="media/pic.jpg" width="50%"> -->
+
+
 <p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">Over 10 years work exprience on linux network and kinds of operation system.</p>
 
 <div id="webaddress">
