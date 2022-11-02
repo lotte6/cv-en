@@ -24,7 +24,7 @@ title: Snow
 ## Experience
 
 `2020.10-2021.6`
-**Nelsoft Systems, Inc.** - *Partner*<br><br>
+**Nelsoft Systems, Inc.** - *Partner* - RFL: Covid-19<br><br>
 1 Finding out the website system and server provider.<br>
 2 Process the purchase and deploy the website system. Initialize the system and crawl data for the system. <br>
 3 Standardization most of the work. Make repetitive tasks easy. <br>
@@ -32,7 +32,7 @@ title: Snow
 <br><br>
 
 `2019.2-2020.9`
-**ANSI Information Systems Inc.** - *Team Manager*<br><br>
+**ANSI Information Systems Inc.** - *Team Manager* - RFL: Startup<br><br>
 1 Design the operation and maintenance system (security system, server frame, monitoring system, document system, network system).<br>
 2 Keep all of the system stable and high ability.<br>
 3 Improve system ability and security system, prevention according to analyze each attack.<br>
@@ -43,7 +43,7 @@ title: Snow
 <br>
 
 `2017.8-2019.1`
-**PTmind** - *Advance Operation and Maintenance Engineer*<br><br>
+**PTmind** - *Advance Operation and Maintenance Engineer* - RFL: Education for kid<br><br>
 1 Transfer all of the system to Docker Engine(Aws cloud and some other cloud platform)<br>
 2 Design DevOps system for the existing envirenment and deploy base on gitlab-ci + rancher platform. <br>
 3 Help developer to familar new DevOps system and use it.<br>
