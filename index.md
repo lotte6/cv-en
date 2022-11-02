@@ -17,7 +17,7 @@ title: Snow
 
 ## Experience
 
-`2019.10-2021.6`
+`2020.10-2021.6`
 **Nelsoft Systems, Inc.** - *Partner*<br><br>
 1 Finding out the website system and server provider.<br>
 2 Process the purchase and deploy the website system. Initialize the system and crawl data for the system. <br>
@@ -25,7 +25,7 @@ title: Snow
 4 Project delivery, expain and solve the customer questions. And give advice to customer.
 <br><br>
 
-`2019.4-2019.10`
+`2019.2-2020.9`
 **ANSI Information Systems Inc.** - *Team Manager*<br><br>
 1 Design the operation and maintenance system (security system, server frame, monitoring system, document system, network system).<br>
 2 Keep all of the system stable and high ability.<br>
