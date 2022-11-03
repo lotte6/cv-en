@@ -28,8 +28,8 @@ title: Snow
 1 Finding out the website system and server provider.<br>
 2 Process the purchase and deploy the website system. Initialize the system and crawl data for the system. <br>
 3 Standardization most of the work. Make repetitive tasks easy. <br>
-4 Project delivery, expain and solve the customer questions. And give advice to customer.
-<br><br>
+4 Project delivery, expain and solve the customer questions. And give advice to customer.<br>
+<br>
 
 `2019.2-2020.9`
 **ANSI Information Systems Inc.** - *Team Manager* - RFL: Startup<br><br>
@@ -38,8 +38,7 @@ title: Snow
 3 Improve system ability and security system, prevention according to analyze each attack.<br>
 4 Develop and design DevOps system for the existing envirenment, increase work efficiency.<br> 
 5 SA team build. Share the skills and learn each other. Keep make everyone grow in my team.<br>
-6 Communicate with other departments, identify and solve problems.
-<br>
+6 Communicate with other departments, identify and solve problems.<br>
 <br>
 
 `2017.8-2019.1`
@@ -48,16 +47,37 @@ title: Snow
 2 Design DevOps system for the existing envirenment and deploy base on gitlab-ci + rancher platform. <br>
 3 Help developer to familar new DevOps system and use it.<br>
 4 Ceph storage cluster and ES cluster maintenance(extend, recovery, fix, HA, rebuild)
-5 Scan all of the server and URL to find out the potential risk. Improve the security by WAF、portSentry、fail2ban and iptables
+5 Scan all of the server and URL to find out the potential risk. Improve the security by WAF portSentry fail2ban and iptables
 6 Survey the log system and design the log flow and deploy (logstash)<br>
 <br>
+
+`2015.5-2017.6`
+**CYBERACTIVE** - *SA Team Manager*<br>
+1 Keep all of system stable and check all of the server.<br>
+2 Use Cirix Xenserver cluster to improv resource utilization<br>
+3 Deploy CICD system make DevOps much more efficient.<br>
+4 Deploy monitor system,find out problem and figure it out.<br>
+<br>
+
+`2014.5-2015.5`
+**Anzhi APP Market** - *Advance Operation and Maintenance Engineer*<br>
+1 Work with developer group to design and deploy user center management system.<br>
+2 Help developers to find out potential prolem.<br>
+3 40 milion PV WEB & application system maintenance.<br>
+<br>
+
+`2011.4-2014.5`
+**TuiBo technical** - *Operation and Maintenance Engineer*<br>
+1 optimize Keepalive + LVS Frame, make cluster more efficient.<br>
+2 Deploy monitor system by shell perl python script.<br>
+3 Use Nginx cache static files, make the server increase performance.<br>
 
 
 ## Project
 
 `2019.11-2020.1`
 **Security Frame Design**<br>
-a)	Make the security plan base on enviranment.[<font color="blue">Link(Chinese Only)</font>](https://brsn.ga/2020/03/30/security-frame.html){:target="_blank"}<br>
+a)	Make the security plan base on enviranment.[<font color="blue">Blog-link(Chinese Only)</font>](https://brsn.ga/2020/03/30/security-frame.html){:target="_blank"}<br>
 b)	Coordinate and implement the plan according to the plan<br>
 c)	With proper adjustment, finally complate<br>
 <br>
@@ -69,7 +89,7 @@ b)	Total 10 people, I am the network and docker frame designer and I was monitor
 c)	All though the project has many technical difficulty, but complate on time.<br>
 <br>
 
-`2016.3-2015.5`
+`2016.3-2016.5`
 **Git + gerrit + jenkins CICD System Deploy**<br>
 a)	Manage and serve Git repositories work on Gerrit Code Review. Process all of the work on Jenkins.<br>
 b)	I design all of the project and deploy.<br>
