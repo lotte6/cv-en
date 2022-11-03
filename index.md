@@ -119,7 +119,7 @@ Hobbies: Sport Gym Badminiton Diving Hiking
 Information Engineering University
 
 ## Major
-Information Systems And Technology Management
+Information Systems And Technology Management(ISTM)
 
 ## About Resume
 
