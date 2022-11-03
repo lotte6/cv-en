@@ -15,7 +15,7 @@ title: Snow
   <a href="https://brsn.ga" target="_blank"><i class="fas fa-home"></i> brsn.ga</a><br>
   <i class="fas fa-phone"></i> 18511070913 <br>
   <a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a><br>
-  <i class="fa fa-map-marker" aria-hidden="true"></i> ZhangJiakou City,He Bei Province, China
+  <i class="fa fa-map-marker" aria-hidden="true"></i> Zhang Jiakou City,He Bei Province, China
 </div>
 
 ## Job Intendion
@@ -84,15 +84,15 @@ c)	To decrease the cost to the minimum<br>
 <br>
 
 ## Skills
-1 Familiar Linux system and windows system(Centos Redhat Debian Ubuntu Kali Alpine windows2002 windows2008 windows2012). <br>
-2 Familiar system optimize, service optimize, network optimize, sercurity optimize and frame optimize. <br>
-3 Familiar WEB Server(Nginx Apache Lightd Tomcat  Jetty  Resin). <br>
-4 Familiar kinks of Loadblance and high bility tool(Lvs Nginx Haproxy traefik). <br>
-5 Familiar monitor system like  nagios zabbix open-falcon grafana world ping. <br>
-6 Familiar ELK system(service, monitor, collect log).<br>
-7 Familiar middleware include redis cluster tweproxy rabbitmq cluster activemq-cluster mycat. <br>
-8 Familiar java environment,configure and HA (zookeeper cosul eureka dubbo). <br>
-9 Familiar kinds of DB：MongoDB Mysql MariaDb galera cluster. <br>
+1  Familiar Linux system and windows system(Centos Redhat Debian Ubuntu Kali Alpine windows2008 windows2012). <br>
+2  Familiar system optimize, service optimize, network optimize, sercurity optimize and frame optimize. <br>
+3  Familiar WEB Server(Nginx Apache Lightd Tomcat  Jetty  Resin). <br>
+4  Familiar kinks of Loadblance and high bility tool(Lvs Nginx Haproxy traefik). <br>
+5  Familiar monitor system like  nagios zabbix open-falcon grafana world ping. <br>
+6  Familiar ELK system(service, monitor, collect log).<br>
+7  Familiar middleware include redis cluster tweproxy rabbitmq cluster activemq-cluster mycat. <br>
+8  Familiar java environment,configure and HA (zookeeper cosul eureka dubbo). <br>
+9  Familiar kinds of DB：MongoDB Mysql MariaDb galera cluster. <br>
 10 Familiar most of the cloud service provider(AWS alicloud Googlecloud Azure Jinshancloud...). <br>
 11 Familiar most of cloud service provider network：Vpc subnet Private Gateway Internet Gateway acl. <br>
 12 Familiar automation tool, Puppet Saltstack Ansible. <br>
@@ -115,6 +115,7 @@ Hobbies: Sport Gym Badminiton Diving Hiking
 
 ## Education
 
+`2007-2011`
 Information Engineering University
 
 ## About Resume
