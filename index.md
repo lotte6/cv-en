@@ -12,7 +12,7 @@ title: Snow
 <p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">Over 10 years work exprience on linux network and kinds of operation system.</p>
 
 <div id="webaddress">
-  <a href="https://brsn.ga" target="_blank"><i class="fas fa-home"></i> brsn.ga</a><br>
+  <a href="https://1231121.xyz" target="_blank"><i class="fas fa-home"></i> 1231121.xyz</a><br>
   <i class="fas fa-phone"></i> 18511070913 <br>
   <a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a><br>
   <i class="fa fa-map-marker" aria-hidden="true"></i> Zhang Jiakou City,He Bei Province, China
@@ -77,7 +77,7 @@ title: Snow
 
 `2019.11-2020.1`
 **Security Frame Design**<br>
-a)	Make the security plan base on enviranment.[<font color="blue">Blog-link(Chinese Only)</font>](https://brsn.ga/2020/03/30/security-frame.html){:target="_blank"}<br>
+a)	Make the security plan base on enviranment.[<font color="blue">Blog-link(Chinese Only)</font>](https://1231121.xyz/2020/03/30/security-frame.html){:target="_blank"}<br>
 b)	Coordinate and implement the plan according to the plan<br>
 c)	With proper adjustment, finally complate<br>
 <br>
