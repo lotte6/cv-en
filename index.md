@@ -118,6 +118,9 @@ Hobbies: Sport Gym Badminiton Diving Hiking
 `2007-2011`
 Information Engineering University
 
+## Major
+Information Systems And Technology Management
+
 ## About Resume
 
 Download ：Press ctrl + p, Printer to choice **save as PDF** <br>
