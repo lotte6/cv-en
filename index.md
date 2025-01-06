@@ -12,7 +12,7 @@ title: Snow
 <p style="font-size:0.8em; line-height:18px; height:50px; margin:0;">Over 10 years work exprience on linux network and kinds of operation system.</p>
 
 <div id="webaddress">
-  <a href="https://1231121.xyz" target="_blank"><i class="fas fa-home"></i> 1231121.xyz</a><br>
+  <a href="https://lotte6.github.io" target="_blank"><i class="fas fa-home"></i> lotte6.github.io</a><br>
   <i class="fas fa-phone"></i> 18511070913 <br>
   <a href="lt12306@gmail.com" target="_blank"><i class="fas fa-envelope"></i> lt12306@gmail.com</a><br>
   <i class="fa fa-map-marker" aria-hidden="true"></i> Zhang Jiakou City,He Bei Province, China
@@ -22,6 +22,19 @@ title: Snow
 **Operation and Maintenance Engineer <br> Team Manager**
 
 ## Experience
+
+`2022.5-2024.12`
+**Zndigits** - *Project Manager of SRE* - RFL: Project Finished <br><br>
+
+1 Optimization of resource integration base on the satuation what we have.<br>
+2 Design new services frame and depolyment, all the service transfer to container and choose manage platform KubeSphere which it is suit for now. <br>
+3 All of pipiline transfer to highly integrated Devops system base on KubeSphere and reduce costs.<br>
+4 We tackle technical challenges, assist in research and development, and provide technical support to various departments to solve existing problems. We address practical issues from a technical perspective and enhance work efficiency through automation.<br>
+5 According to the company's development, formulate the operation and maintenance development direction and strategy, technology selection, reasonable planning of operation and maintenance work content.<br>
+6 Collaborate with third-party companies to implement system defenses, conduct audits, and perform security vulnerability scans, ensuring the system successfully meets the requirements for ISO certification and Level 3 Classified Protection compliance.<br>
+7 Building and fostering a high-performing team through effective communication, collaboration, and development of skills, while aligning individual goals with organizational objectives.<br>
+
+<br>
 
 `2020.10-2021.6`
 **Nelsoft Systems, Inc.** - *Partner* - RFL: Covid-19<br><br>
@@ -75,9 +88,11 @@ title: Snow
 
 ## Project
 
+
+
 `2019.11-2020.1`
 **Security Frame Design**<br>
-a)	Make the security plan base on enviranment.[<font color="blue">Blog-link(Chinese Only)</font>](https://1231121.xyz/2020/03/30/security-frame.html){:target="_blank"}<br>
+a)	Make the security plan base on enviranment.[<font color="blue">Blog-link(Chinese Only)</font>](https://lotte6.github.io/2020/03/30/security-frame.html){:target="_blank"}<br>
 b)	Coordinate and implement the plan according to the plan<br>
 c)	With proper adjustment, finally complate<br>
 <br>
@@ -140,7 +155,3 @@ Information Engineering University
 
 ## Major
 Information Systems And Technology Management(ISTM)
-
-## About Resume
-
-Download ：Press ctrl + p, Printer to choice **save as PDF** <br>
